@@ -1,0 +1,28 @@
+[{
+    "student_id": 201909118,
+    "first_name": "Ariel",
+    "last_name": "Evangelista Reyes",
+    "email": "ariel031073@gmail.com",
+    "gender": "Male",
+    "course_studied": ["Introduction to Computer Science", "Database Concepts", "Fundamentals of Programming", "Developing Web and Enterprise Applications"],
+    "program_name": "Computer Science Technician",
+    "MCIT_second_program": false
+}, {
+    "student_id": 201703019,
+    "first_name": "Alejandro",
+    "last_name": "Gonzalez Barron",
+    "email": "alexg.barron@gmail.com",
+    "gender": "Male",
+    "course_studied": ["Big Data", "Introduction to Computer Science", "Database Concepts", "Fundamentals of Programming", "Developing Web and Enterprise Applications"],
+    "program_name": "Computer Science Technician",
+    "MCIT_second_program": true
+}, {
+    "student_id": 201910001,
+    "first_name": "Gabriela",
+    "last_name": "Chlumska",
+    "email": "g.chlumska@yahoo.ca",
+    "gender": "Female",
+    "course_studied": ["Introduction to Computer Science", "Database Concepts", "Fundamentals of Programming", "Developing Web and Enterprise Applications"],
+    "program_name": "Computer Science Technician",
+    "MCIT_second_program": false
+}]
